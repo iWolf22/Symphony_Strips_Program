@@ -2,6 +2,7 @@
 Shad Canada 2022 at Carleton University - DE Group 2
 
 This is the Arduino code used to add functionality to the ultrasonic sensors and piezo speakers of our prototype.
+
 I would highly recommend checking out our youtube playlist or our entrepreneurship website to get a better sense of what the 3 time award winning Symphony Strips prototype is like!
 
 ---

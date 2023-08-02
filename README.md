@@ -7,7 +7,7 @@ I would highly recommend checking out our youtube playlist or our entrepreneursh
 
 ![Picture of Symphony Strip](https://drive.google.com/uc?id=1t2ima4QRyWqTI9sqy8OusykV_PHXWseO)
 
-^ The above is a picture of the Symphony Strip prototype ^
+^ Above is a picture of the Symphony Strip prototype ^
 
 ---
 
